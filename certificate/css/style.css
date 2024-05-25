@@ -1,0 +1,25 @@
+.card_column {
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.card-img-top {
+    height: 100%;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.imgsize {
+    width: 90%;
+    height: 60%;
+}
+
+.occ_header {
+    text-align: center;
+    font-style: oblique;
+    font-weight: 600;
+    background-color: lightblue;
+    color: red;
+}
