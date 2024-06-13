@@ -1,0 +1,28 @@
+.drop-ml:hover {
+    background-color: rgb(83, 43, 43);
+    border: 1px solid saddlebrown;
+    border-radius: 3px;
+    color: rgb(255, 251, 251);
+    transition: 1s;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+.ml_banner {
+    position: relative;
+}
+
+.ml_text {
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+}
+
+.ml_txt_size {
+    font-size: 100px;
+    color: rgb(121, 96, 160);
+    font-weight: 900;
+    font-style: italic;
+}
